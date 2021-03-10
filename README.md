@@ -1,5 +1,7 @@
 # CactusBot
 
+## Join [The Terrarium](https://discord.gg/MPC397a9Pu)
+
 ## Setup
 
 To set up the bot you will need poetry installed, which can be done using:
